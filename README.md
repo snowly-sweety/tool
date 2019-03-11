@@ -38,7 +38,7 @@
 This theme could not be installed use package control, but you can manual install.
 [here is link of Github](https://github.com/bofm/sublime-boxy-theme)
 
-###usage:
+### usage:
 Download Zip, extracting files, drag and drop the extracted folder to 'C:\Users\lwt\AppData\Roaming\Sublime Text 3\Packages' which could be opened trough 'Preferences/Browse Packages'.
 
 However, there I got some trouble.After few minutes, the folder which was new in the directory was disappeared!And repeat the operation, dropped the folder.The same thing happend.
@@ -57,4 +57,4 @@ so, add the name to *Package Control.sublime-settings* file:
 `
 Lastly, close out of the sublime text 3 and restart it, nothing will be removed.
 
-Thanks for help[the link](https://forum.sublimetext.com/t/sublime-keeps-deleting-my-loose-packages/15691/3)
+Thanks for help: [the link](https://forum.sublimetext.com/t/sublime-keeps-deleting-my-loose-packages/15691/3)
