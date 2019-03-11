@@ -43,10 +43,10 @@ Download Zip, extracting files, drag and drop the extracted folder to 'C:\Users\
 
 However, there I got some trouble.After few minutes, the folder which was new in the directory was disappeared!And repeat the operation, dropped the folder.The same thing happend.
 
-The problem occurs because of lack the setting of *Package Control.sublime-settings* file:
+The problem occurs because of lack the setting of **Package Control.sublime-settings** file:
 > Package Control keeps track of what packages it installs with a package-metadata.json and a centralized list in the setting "installed_packages" of the "Packages/User/Package Control.sublime-settings" file.
 
-so, add the name to *Package Control.sublime-settings* file:
+so, add the name to **Package Control.sublime-settings** file:
 `
   "installed_packages":
 	[
